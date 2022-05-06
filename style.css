@@ -1,0 +1,58 @@
+@font-face {
+    font-family: gothamMed;
+    src: url(https://a.storyblok.com/f/112136/x/5e402b0b67/gotham-medium.otf);
+}
+
+@font-face {
+    font-family: gothamLight;
+    src: url(https://a.storyblok.com/f/112136/x/1e7232d46e/gotham-book.otf);
+}
+
+@font-face {
+    font-family: gothamBold;
+    src: url(https://a.storyblok.com/f/112136/x/361f778928/gotham-bold.otf);
+}
+
+
+* {
+    font-family: gothamMed, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: ease 0.4s;
+    color: white;
+}
+
+
+html {
+    background-color: transparent;
+}
+
+.navCntrl {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0f1360d1;
+}
+
+.btn {
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    background: white;
+    border: solid white 1px;
+    cursor: pointer;
+    color: #0f1360;
+    z-index: 100;
+}
+
+.btn:hover {
+    background-color: rgb(255, 255, 255, 0.5);
+}
+
+
+.progress{
+    display: flex;
+    position: absolute;
+    width: 100%;
+    justify-content: center;
+}
