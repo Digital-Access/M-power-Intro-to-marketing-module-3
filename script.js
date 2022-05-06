@@ -1,8 +1,8 @@
 const config = {
     videos: [
-        "https://fast.wistia.net/embed/iframe/rhgkngj4yv?seo=false&videoFoam=true",
-        "https://fast.wistia.net/embed/iframe/rhgkngj4yv?seo=false&videoFoam=true",
-        "https://fast.wistia.net/embed/iframe/rhgkngj4yv?seo=false&videoFoam=true"
+        "https://fast.wistia.net/embed/iframe/ctbjayivcc?seo=false&videoFoam=true",
+        "https://fast.wistia.net/embed/iframe/aqwywqfe5y?seo=false&videoFoam=true",
+        "https://fast.wistia.net/embed/iframe/awwd0h7ii1?seo=false&videoFoam=true"
     ],
     next_button: "Next video",
     previous_button: "Previous video",
